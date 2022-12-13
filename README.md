@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Yanjing Ren
 - 👀 I’m interested in storage systems, and I hope to do some valuable and influential work in the area
-- 🌱 I’m currently learning key-value storage
+- 🌱 I'm currently studying in Applied Distributed Systems Lab (ADSLab), The Chinese University of Hong Kong. My research interests are distributed storage system and key-value storage.
 - 💞️ Thanks to my favorite little fairy, Luo Nan, for giving me the motivation to move forward
 - 📫 Contact me via yjren22@cse.cuhk.edu.hk or tinoryj@gmail.com
+
 
 <!---
 tinoryj/tinoryj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
