@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yanjing Ren
 - 👀 I’m interested in storage systems, and I hope to do some valuable and influential work in the area
-- 💞️ Thanks to my favorite little fairy, Luo Nan, for giving me the motivation to move forward
-- 📫 Contact me via tinoryj@gmail.com or yjren22@cse.cuhk.edu.hk
+- 💞️ Thanks to my beloved little fairy, Luo Nan, for giving me the motivation to move forward
+- 📫 Contact me via tinoryj@gmail.com
 - 📝 My homepage: https://tinoryj.github.io/
 
 <div align="left">
